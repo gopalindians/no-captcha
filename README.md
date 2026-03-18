@@ -194,4 +194,4 @@ if (! empty($_POST)) {
 
 ## Contribute
 
-https://github.com/anhskohbo/no-captcha/pulls
+https://github.com/gopalindians/no-captcha/pulls
