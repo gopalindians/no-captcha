@@ -1,5 +1,5 @@
 {
-    "name": "anhskohbo/no-captcha",
+    "name": "gopalindians/no-captcha",
     "description": "No CAPTCHA reCAPTCHA For Laravel.",
     "keywords": [
         "recaptcha",
@@ -15,6 +15,10 @@
         {
             "name": "anhskohbo",
             "email": "anhskohbo@gmail.com"
+        },
+        {
+            "name": "gopalindians",
+            "email": "gopalindians@gmail.com"
         }
     ],
     "require": {
